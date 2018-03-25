@@ -3,8 +3,8 @@
 
 Assignment 1:
 
-	The Delivery Man - A*
+	DeliveryMan.R - The Delivery Man (A*)
 
 Assignment 2:
 
-	Where’s Croc - Hidden Markov models
+	WheresCroc.R - Where’s Croc (Hidden Markov models)
