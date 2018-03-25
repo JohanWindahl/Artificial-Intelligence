@@ -13,7 +13,7 @@ example:
 
 	runDeliveryMan(aStarDM,10,2000,T,0.05,5)
 
-![queue](https://github.com/JohanWindahl/Artificial-Intelligence/md.gif)
+![dm](https://github.com/JohanWindahl/Artificial-Intelligence/dm.gif)
 
 
 **Assignment 2:**
@@ -28,4 +28,4 @@ example:
 
 	runWheresCroc(ourWC,T,1)
 
-![queue](https://github.com/JohanWindahl/Artificial-Intelligence/wc.gif)
+![wc](https://github.com/JohanWindahl/Artificial-Intelligence/wc.gif)
