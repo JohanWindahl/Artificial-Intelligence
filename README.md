@@ -1,5 +1,6 @@
 # Artificial-Intelligence #
-### Language: R ###
+- Project in the course Artificial Intelligence
+- Language: R
 
 **Assignment 1:**
 DeliveryMan.R - The Delivery Man (A*) 
