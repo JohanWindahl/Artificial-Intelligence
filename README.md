@@ -1,6 +1,6 @@
 # Artificial-Intelligence #
 Two assignments in the course Artificial Intelligence - 1DL340
-
+ 
 **Language: R**
 
 **Assignment 1:**
