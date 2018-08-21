@@ -1,6 +1,6 @@
 # Artificial-Intelligence #
-- Project in the course Artificial Intelligence
-- Language: R
+Project in the course Artificial Intelligence - 1DL340
+Language: R
 
 **Assignment 1:**
 DeliveryMan.R - The Delivery Man (A*) 
