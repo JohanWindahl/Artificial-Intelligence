@@ -1,5 +1,5 @@
 # Artificial-Intelligence #
-Project in the course Artificial Intelligence - 1DL340
+Two assignments in the course Artificial Intelligence - 1DL340
 
 Language: R
 
