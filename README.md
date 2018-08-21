@@ -5,7 +5,7 @@ Language: R
 
 **Assignment 1:**
 DeliveryMan.R - The Delivery Man (A*) 
-Detalis: Move around nodes and collect packages and deliver them to a specific destinations. Colors on edges translates into different traveltimes. These traveltimes are randomized each move made. An implementation of the A-star algorithm to find the dynamiclly changing optimal route to collect all packages and retrieve them was made.  
+Detalis: Move around nodes and collect packages and deliver them to a specific destinations. Colors on edges translates into different traveltimes. These traveltimes are randomized each move made. An implementation of the A-star algorithm to find the dynamiclly changing optimal shortest route to collect all packages and retrieve them was made.  
 - Blue:You
 - Green:Packages
 - Red:Destination
